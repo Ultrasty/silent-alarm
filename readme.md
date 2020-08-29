@@ -18,4 +18,4 @@
 
 `Arduino`开发板长这样：
 
-<img src="demo_board.jpg" width="75%;">
+<img src="demo_board.jpg" width="70%;">
